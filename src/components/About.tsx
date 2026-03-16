@@ -4,7 +4,7 @@ import { CheckCircle2 } from 'lucide-react';
 export default function About() {
   const features = [
     "Locally Owned & Operated in Galveston",
-    "Fully Licensed & Insured",
+    "Specialists in Coastal & Beach Homes",
     "Premium Materials & Craftsmanship",
     "Transparent Pricing & Timelines",
     "Direct Communication with the Owner",
@@ -51,15 +51,15 @@ export default function About() {
             <div>
               <h2 className="text-sm font-bold tracking-widest text-amber-500 uppercase mb-3">About Us</h2>
               <h3 className="text-4xl md:text-5xl font-extrabold tracking-tight mb-6">
-                Building Galveston's Finest Homes.
+                Building Galveston's Finest Beach Homes.
               </h3>
               <p className="text-lg text-slate-300 leading-relaxed">
-                DTM Builders is a premier construction and remodeling company based in Galveston, TX. Founded by Daniel Skrzypczak, we have built our reputation on unwavering quality, attention to detail, and a commitment to bringing our clients' visions to life.
+                DTM Builders is a premier construction and remodeling company serving the Galveston area since Hurricane Ike. Founded by Daniel Skrzypczak, we have built our reputation on unwavering quality, attention to detail, and a deep understanding of what it takes to build and maintain beautiful coastal properties.
               </p>
             </div>
 
             <p className="text-lg text-slate-300 leading-relaxed">
-              Whether you are looking to build a custom home from the ground up, or breathe new life into your current space with a stunning kitchen or bathroom remodel, our team has the expertise to deliver exceptional results. We understand that your home is your most significant investment, and we treat every project with the respect and dedication it deserves.
+              Whether you are looking to build a custom beach house from the ground up, or breathe new life into your current island home with a stunning kitchen or bathroom remodel, our team has the expertise to deliver exceptional results that withstand the coastal environment. We understand that your home is your most significant investment, and we treat every project with the respect and dedication it deserves.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-4">

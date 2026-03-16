@@ -17,7 +17,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="max-w-sm text-sm leading-relaxed">
-              Premium custom home construction and remodeling services in Galveston, TX. Specializing in high-end kitchens and bathrooms.
+              Premium custom home construction and remodeling services. Serving the Galveston area since Hurricane Ike, specializing in high-end coastal properties.
             </p>
           </div>
           

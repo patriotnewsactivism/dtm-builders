@@ -4,27 +4,27 @@ import { Home, Droplets, Utensils, Wrench } from 'lucide-react';
 const services = [
   {
     title: 'New Construction',
-    description: 'From the ground up, we build custom homes tailored to your lifestyle, ensuring structural integrity and stunning design.',
+    description: 'From the ground up, we build custom beach homes tailored to your coastal lifestyle, ensuring structural integrity against the elements and stunning design.',
     icon: Home,
-    image: 'https://images.unsplash.com/photo-1503387762-592deb58ef4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+    image: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
   },
   {
     title: 'Kitchen Remodels',
-    description: 'Transform the heart of your home. We specialize in custom cabinetry, countertops, islands, and modern appliance integration.',
+    description: 'Transform the heart of your home. We specialize in bright, airy coastal kitchens with custom cabinetry, durable countertops, and modern appliance integration.',
     icon: Utensils,
-    image: 'https://images.unsplash.com/photo-1556910103-1c02745a872e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+    image: 'https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
   },
   {
     title: 'Bath Remodels',
-    description: 'Create your personal oasis. From walk-in showers and soaking tubs to custom vanities and elegant tile work.',
+    description: 'Create your personal oasis after a day at the beach. From walk-in showers and soaking tubs to custom vanities and elegant, moisture-resistant tile work.',
     icon: Droplets,
-    image: 'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+    image: 'https://images.unsplash.com/photo-1620626011761-996317b8d101?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
   },
   {
     title: 'General Remodeling',
-    description: 'Whole-home renovations, additions, and structural changes to modernize and expand your living space.',
+    description: 'Whole-home renovations, additions, and structural changes to modernize and expand your Galveston living space for family and guests.',
     icon: Wrench,
-    image: 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+    image: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
   },
 ];
 
@@ -38,7 +38,7 @@ export default function Services() {
             Comprehensive Building Services
           </h3>
           <p className="mt-6 text-lg text-slate-600">
-            At DTM Builders, we bring decades of experience to every project. Whether you're building a new home or remodeling an existing space, we deliver excellence.
+            At DTM Builders, we bring decades of experience to every project on the island. Whether you're building a new beach house or remodeling an existing coastal property, we deliver excellence.
           </p>
         </div>
 

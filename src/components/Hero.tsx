@@ -7,8 +7,8 @@ export default function Hero() {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
-          alt="Luxury custom home exterior"
+          src="https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+          alt="Luxury coastal beach home exterior"
           className="w-full h-full object-cover object-center"
           referrerPolicy="no-referrer"
         />
@@ -24,7 +24,7 @@ export default function Hero() {
         >
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-white text-sm font-medium tracking-wide uppercase">
             <span className="w-2 h-2 rounded-full bg-amber-500 animate-pulse" />
-            Galveston, TX Premier Builder
+            Serving the Galveston Area Since Hurricane Ike
           </div>
           
           <h1 className="text-5xl md:text-7xl font-extrabold text-white tracking-tight leading-tight">
@@ -35,7 +35,7 @@ export default function Hero() {
           </h1>
           
           <p className="text-lg md:text-xl text-slate-300 font-light leading-relaxed max-w-2xl mx-auto">
-            DTM Builders specializes in high-end new construction, and transformative kitchen & bath remodels. Quality craftsmanship led by Daniel Skrzypczak.
+            DTM Builders specializes in high-end new construction, and transformative kitchen & bath remodels for Galveston beach homes and coastal properties. Quality craftsmanship led by Daniel Skrzypczak.
           </p>
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4">
